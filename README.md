@@ -4,5 +4,5 @@ Multi_Lick_ports_behavioral_setup is designed for multiple liquid delivering and
 **Setup for Head Fix**
 ![image](https://user-images.githubusercontent.com/108768731/177430609-066f2644-9791-43d6-9778-052a1974d131.png)
 
-**Setup for Lick Port**
+**Setup for Lick Port Needle Holder**
 ![image](https://user-images.githubusercontent.com/85714299/181372601-03f2d5e4-2593-4e50-abe6-e3f19525dc7f.JPG)
