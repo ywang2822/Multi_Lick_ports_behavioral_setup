@@ -6,3 +6,4 @@ Multi_Lick_ports_behavioral_setup is designed for multiple liquid delivering and
 
 **Setup for Lick Port Needle Holder**
 ![image](https://user-images.githubusercontent.com/85714299/181372601-03f2d5e4-2593-4e50-abe6-e3f19525dc7f.JPG)
+[![HitCount](https://hits.dwyl.com/ywang2822/Multi_Lick_ports_behavioral_setup.svg?style=flat-square)](http://hits.dwyl.com/ywang2822/Multi_Lick_ports_behavioral_setup)
